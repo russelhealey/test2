@@ -6,5 +6,6 @@ public class TestGit {
         // ok 2 create second conflict
         // create conflict
         // change
+        //make change
     }
 }
