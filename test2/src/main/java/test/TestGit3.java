@@ -1,4 +1,3 @@
-<<<<<<< Upstream, based on origin/master
 package test;
 
 public class TestGit3 {
@@ -9,6 +8,4 @@ public class TestGit3 {
         // change
     }
 }
-=======
 Test this file!
->>>>>>> b12f707 Test conflict.
