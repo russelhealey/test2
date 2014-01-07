@@ -7,4 +7,5 @@ public class TestGit3 {
         // create conflict
         // change
     }
+    // test not commited to local
 }
