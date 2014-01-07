@@ -8,4 +8,3 @@ public class TestGit3 {
         // change
     }
 }
-Test this file!
