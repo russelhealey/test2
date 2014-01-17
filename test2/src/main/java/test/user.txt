@@ -1,4 +1,8 @@
 heyo
 make a conflict with remote
 make conflict
+<<<<<<< HEAD
 make another
+=======
+make another conflict on eclipse side
+>>>>>>> test
