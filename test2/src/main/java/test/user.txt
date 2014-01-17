@@ -2,4 +2,3 @@ heyo
 make a conflict with remote
 make conflict
 make another
-make another conflict on eclipse side
