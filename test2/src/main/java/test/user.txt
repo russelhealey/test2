@@ -5,4 +5,3 @@ make conflict
 make another
 =======
 make another conflict on eclipse side
->>>>>>> test
