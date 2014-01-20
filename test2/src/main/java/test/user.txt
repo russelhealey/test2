@@ -4,3 +4,4 @@ make conflict
 make another
 try test
 try to conflict
+test3
