@@ -4,4 +4,8 @@ make conflict
 make another
 try test
 try to conflict
+<<<<<<< Upstream, based on origin/master
 test3
+=======
+test2
+>>>>>>> 3d7d177 test2
